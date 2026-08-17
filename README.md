@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Chirag Thathi
 
-<!--
-**chiragthathi/chiragthathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer & Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I'm a final-year BCA student interested in building practical full-stack
+applications and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 React.js, Node.js & Express
+- 🗄️ MySQL & MongoDB
+- 🐍 Python & Pandas
+- 📊 Power BI & DAX
+- 🔗 REST APIs & API Integration
+- 🚀 Building real-world projects
+
+## Tech Stack
+
+**Languages:** JavaScript, Python, Java, C++
+
+**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS
+
+**Backend:** Node.js, Express.js
+
+**Database:** MySQL, MongoDB
+
+**Data & Analytics:** Python, Pandas, Power BI, DAX
+
+**Tools:** Git, GitHub, Postman, Jupyter
+
+## Featured Projects
+
+- Service Management System
+- E-Commerce Data Analytics
+- Recipe Application
+- Personal Portfolio
+
+## Currently Learning
+
+Data Engineering | Cloud | Advanced Power BI
+
+## Connect With Me
+
+LinkedIn • Portfolio • Email
